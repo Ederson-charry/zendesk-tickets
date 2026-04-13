@@ -1,33 +1,29 @@
 {
-  "total_tickets": 7585,
+  "total_tickets": 7598,
   "by_status": [
     {
       "Status": "closed",
-      "cnt": 6531
+      "cnt": 6535
     },
     {
       "Status": "open",
-      "cnt": 982
+      "cnt": 983
     },
     {
       "Status": "solved",
-      "cnt": 61
+      "cnt": 65
     },
     {
       "Status": "pending",
-      "cnt": 9
-    },
-    {
-      "Status": "new",
-      "cnt": 1
+      "cnt": 10
     },
     {
       "Status": "hold",
-      "cnt": 1
+      "cnt": 5
     }
   ],
-  "resueltos": 6592,
-  "abiertos": 991,
+  "resueltos": 6600,
+  "abiertos": 993,
   "monthly_trend": [
     {
       "mes": "2026-01",
@@ -49,9 +45,9 @@
     },
     {
       "mes": "2026-04",
-      "total": 701,
-      "resueltos": 549,
-      "abiertos": 150
+      "total": 714,
+      "resueltos": 557,
+      "abiertos": 152
     }
   ],
   "by_canal": [
@@ -61,7 +57,7 @@
     },
     {
       "Canal": "correo",
-      "cnt": 3212
+      "cnt": 3208
     },
     {
       "Canal": "app_quicker",
@@ -87,11 +83,11 @@
     },
     {
       "Empresa": "supply_cn",
-      "cnt": 1232
+      "cnt": 1231
     },
     {
       "Empresa": "quick_go",
-      "cnt": 1066
+      "cnt": 1064
     },
     {
       "Empresa": "transversal",
@@ -115,7 +111,7 @@
     },
     {
       "Empresa": "j_j_colombia_sq",
-      "cnt": 54
+      "cnt": 53
     },
     {
       "Empresa": "colsubsidio_v4",
@@ -145,7 +141,7 @@
   "by_pais": [
     {
       "Pais": "colombia",
-      "cnt": 7282
+      "cnt": 7278
     },
     {
       "Pais": "chile",
@@ -167,11 +163,11 @@
   "by_priority": [
     {
       "Priority": "normal",
-      "cnt": 6923
+      "cnt": 6929
     },
     {
       "Priority": "low",
-      "cnt": 502
+      "cnt": 507
     },
     {
       "Priority": "high",
@@ -185,11 +181,11 @@
   "by_type": [
     {
       "Type": "incident",
-      "cnt": 4762
+      "cnt": 4766
     },
     {
       "Type": "task",
-      "cnt": 2694
+      "cnt": 2702
     },
     {
       "Type": "question",
@@ -203,7 +199,7 @@
   "by_nivel": [
     {
       "Nivel": "n.1_soporte",
-      "cnt": 5507
+      "cnt": 5506
     },
     {
       "Nivel": "n.6_op-go-pqrs",
@@ -211,7 +207,7 @@
     },
     {
       "Nivel": "n.3_desarrollo",
-      "cnt": 402
+      "cnt": 401
     },
     {
       "Nivel": "n.14_talento_humano_sac",
@@ -235,7 +231,7 @@
     },
     {
       "Nivel": "n.10__gaf_qm_",
-      "cnt": 100
+      "cnt": 98
     },
     {
       "Nivel": "n.12_automatizaciones",
@@ -245,7 +241,7 @@
   "by_servicio": [
     {
       "Servicio_Afectado": "21.35_creacion_de_manifiesto",
-      "cnt": 789
+      "cnt": 788
     },
     {
       "Servicio_Afectado": "7.2.2_cambio_estado_llegado",
@@ -284,9 +280,9 @@
       "cnt": 177
     }
   ],
-  "avg_reply_time_min": 50.9,
-  "avg_first_resolution_min": 1796.1,
-  "avg_full_resolution_min": 1915.6,
+  "avg_reply_time_min": 50.8,
+  "avg_first_resolution_min": 1794.5,
+  "avg_full_resolution_min": 1913.8,
   "reiterative_count": 346,
   "by_calificacion": [],
   "analyst_table": [
@@ -313,9 +309,9 @@
     },
     {
       "name": "helen_benavides",
-      "total": 853,
+      "total": 852,
       "resueltos": 851,
-      "avg_res_min": 199.0,
+      "avg_res_min": 195.0,
       "avg_reply_min": 11.0
     },
     {
@@ -364,7 +360,7 @@
     },
     {
       "name": "operación",
-      "total": 1068,
+      "total": 1066,
       "resueltos": 1020,
       "avg_res_min": 1893.0,
       "avg_reply_min": 102.0
@@ -378,9 +374,9 @@
     },
     {
       "name": "tech",
-      "total": 805,
+      "total": 804,
       "resueltos": 783,
-      "avg_res_min": 825.0,
+      "avg_res_min": 823.0,
       "avg_reply_min": 78.0
     },
     {
@@ -406,10 +402,10 @@
     },
     {
       "name": "3.2_producto",
-      "total": 94,
+      "total": 93,
       "resueltos": 78,
       "avg_res_min": 7623.0,
-      "avg_reply_min": 57.0
+      "avg_reply_min": 58.0
     },
     {
       "name": "duplicado",
@@ -436,7 +432,7 @@
   "nivel_table": [
     {
       "name": "n.1_soporte",
-      "total": 5507,
+      "total": 5506,
       "resueltos": 5501,
       "avg_reply_min": 30.0
     },
@@ -448,9 +444,9 @@
     },
     {
       "name": "n.3_desarrollo",
-      "total": 402,
+      "total": 401,
       "resueltos": 230,
-      "avg_reply_min": 393.0
+      "avg_reply_min": 394.0
     },
     {
       "name": "n.14_talento_humano_sac",
@@ -484,9 +480,9 @@
     },
     {
       "name": "n.10__gaf_qm_",
-      "total": 100,
+      "total": 98,
       "resueltos": 98,
-      "avg_reply_min": 38.0
+      "avg_reply_min": 39.0
     },
     {
       "name": "n.12_automatizaciones",
@@ -569,12 +565,12 @@
     },
     {
       "name": "supply_cn",
-      "total": 1232,
+      "total": 1231,
       "resueltos": 1218
     },
     {
       "name": "quick_go",
-      "total": 1066,
+      "total": 1064,
       "resueltos": 1015
     },
     {
@@ -604,7 +600,7 @@
     },
     {
       "name": "j_j_colombia_sq",
-      "total": 54,
+      "total": 53,
       "resueltos": 41
     },
     {
@@ -641,7 +637,7 @@
   "servicio_table": [
     {
       "name": "21.35_creacion_de_manifiesto",
-      "total": 789,
+      "total": 788,
       "resueltos": 787
     },
     {
@@ -691,14 +687,14 @@
     }
   ],
   "sla_metrics": {
-    "total": 7585,
-    "reply_1h": 6681,
-    "res_24h": 5433,
+    "total": 7598,
+    "reply_1h": 6695,
+    "res_24h": 5440,
     "avg_csat": null,
-    "total_reopens": 410
+    "total_reopens": 413
   },
   "resolution_buckets": {
-    "bucket_1h": 3798,
+    "bucket_1h": 3805,
     "bucket_4h": 922,
     "bucket_8h": 294,
     "bucket_24h": 419,
@@ -726,9 +722,9 @@
     },
     {
       "mes": "2026-04",
-      "total": 701,
-      "reply_1h": 617,
-      "res_24h": 488
+      "total": 714,
+      "reply_1h": 631,
+      "res_24h": 495
     }
   ],
   "monthly_detail": {
@@ -814,7 +810,7 @@
       "2026-04": [
         {
           "name": "correo",
-          "count": 325
+          "count": 321
         },
         {
           "name": "chat",
@@ -1624,7 +1620,7 @@
       "2026-04": [
         {
           "name": "supply_cn",
-          "count": 198
+          "count": 197
         },
         {
           "name": "eps_sanitas_sq",
@@ -1632,15 +1628,11 @@
         },
         {
           "name": "quick_go",
-          "count": 113
+          "count": 111
         },
         {
           "name": "colombina_sa_sq",
           "count": 6
-        },
-        {
-          "name": "j_j_colombia_sq",
-          "count": 5
         },
         {
           "name": "dps_first_mile",
@@ -1653,6 +1645,10 @@
         {
           "name": "cafam",
           "count": 5
+        },
+        {
+          "name": "j_j_colombia_sq",
+          "count": 4
         },
         {
           "name": "cruz_verde",
@@ -1854,7 +1850,7 @@
       "2026-04": [
         {
           "name": "colombia",
-          "count": 598
+          "count": 594
         },
         {
           "name": "estados_unidos",
@@ -2076,7 +2072,7 @@
       "2026-04": [
         {
           "name": "n.1_soporte",
-          "count": 455
+          "count": 454
         },
         {
           "name": "n.6_op-go-pqrs",
@@ -2084,7 +2080,7 @@
         },
         {
           "name": "n.3_desarrollo",
-          "count": 29
+          "count": 28
         },
         {
           "name": "n.2_producto",
@@ -2107,12 +2103,12 @@
           "count": 9
         },
         {
-          "name": "n.10__gaf_qm_",
-          "count": 6
-        },
-        {
           "name": "n.12_automatizaciones",
           "count": 5
+        },
+        {
+          "name": "n.10__gaf_qm_",
+          "count": 4
         },
         {
           "name": "n.14_last_mile_sac",
@@ -2186,11 +2182,11 @@
       "2026-04": [
         {
           "name": "normal",
-          "count": 620
+          "count": 626
         },
         {
           "name": "low",
-          "count": 61
+          "count": 66
         },
         {
           "name": "high",
@@ -2260,11 +2256,11 @@
       "2026-04": [
         {
           "name": "incident",
-          "count": 475
+          "count": 479
         },
         {
           "name": "task",
-          "count": 211
+          "count": 219
         },
         {
           "name": "problem",
@@ -2362,7 +2358,7 @@
       "2026-04": [
         {
           "name": "helen_benavides",
-          "count": 151
+          "count": 150
         },
         {
           "name": "jhon_wilches",
@@ -2528,7 +2524,7 @@
       "2026-04": [
         {
           "name": "tech",
-          "count": 160
+          "count": 159
         },
         {
           "name": "3.3__service_desk",
@@ -2540,7 +2536,7 @@
         },
         {
           "name": "operación",
-          "count": 95
+          "count": 93
         },
         {
           "name": "colaborador",
@@ -2551,11 +2547,11 @@
           "count": 29
         },
         {
-          "name": "3.2_producto",
-          "count": 16
+          "name": "8._ministerio",
+          "count": 15
         },
         {
-          "name": "8._ministerio",
+          "name": "3.2_producto",
           "count": 15
         },
         {
@@ -3770,7 +3766,7 @@
       "2026-04": [
         {
           "name": "21.35_creacion_de_manifiesto",
-          "count": 163
+          "count": 162
         },
         {
           "name": "25._sin_interacción_con_cliente__chat_",
@@ -3889,10 +3885,6 @@
           "count": 3
         },
         {
-          "name": "3.2.15_crear_tarifas",
-          "count": 3
-        },
-        {
           "name": "3.2.14_ingreso_a_plataforma",
           "count": 3
         },
@@ -4005,6 +3997,10 @@
           "count": 1
         },
         {
+          "name": "3.2.15_crear_tarifas",
+          "count": 1
+        },
+        {
           "name": "3.1.9_evidencias_de_entrega",
           "count": 1
         },
@@ -4043,17 +4039,13 @@
         {
           "name": "11._chatbot",
           "count": 1
-        },
-        {
-          "name": "10.1_smarttracing",
-          "count": 1
         }
       ]
     }
   },
   "date_range": {
     "min": "2026-01-01T00:50:00",
-    "max": "2026-04-13 21:02:18"
+    "max": "2026-04-13 22:41:24"
   },
-  "generated_at": "2026-04-13 16:14:15"
+  "generated_at": "2026-04-13 18:02:24"
 }
