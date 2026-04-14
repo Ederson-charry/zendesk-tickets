@@ -1,17 +1,17 @@
 {
-  "total_tickets": 7640,
+  "total_tickets": 7648,
   "by_status": [
     {
       "Status": "closed",
-      "cnt": 6541
+      "cnt": 6548
     },
     {
       "Status": "open",
-      "cnt": 981
+      "cnt": 974
     },
     {
       "Status": "solved",
-      "cnt": 110
+      "cnt": 114
     },
     {
       "Status": "pending",
@@ -19,11 +19,15 @@
     },
     {
       "Status": "hold",
+      "cnt": 4
+    },
+    {
+      "Status": "new",
       "cnt": 1
     }
   ],
-  "resueltos": 6651,
-  "abiertos": 988,
+  "resueltos": 6662,
+  "abiertos": 981,
   "monthly_trend": [
     {
       "mes": "2026-01",
@@ -35,19 +39,19 @@
       "mes": "2026-02",
       "total": 2215,
       "resueltos": 1941,
-      "abiertos": 274
+      "abiertos": 273
     },
     {
       "mes": "2026-03",
       "total": 1803,
       "resueltos": 1504,
-      "abiertos": 299
+      "abiertos": 298
     },
     {
       "mes": "2026-04",
-      "total": 756,
-      "resueltos": 608,
-      "abiertos": 147
+      "total": 764,
+      "resueltos": 619,
+      "abiertos": 142
     }
   ],
   "by_canal": [
@@ -57,11 +61,11 @@
     },
     {
       "Canal": "correo",
-      "cnt": 3205
+      "cnt": 3202
     },
     {
       "Canal": "app_quicker",
-      "cnt": 451
+      "cnt": 447
     },
     {
       "Canal": "llamada",
@@ -87,11 +91,11 @@
     },
     {
       "Empresa": "quick_go",
-      "cnt": 1059
+      "cnt": 1054
     },
     {
       "Empresa": "transversal",
-      "cnt": 140
+      "cnt": 139
     },
     {
       "Empresa": "embotelladora_andina_sa",
@@ -107,7 +111,7 @@
     },
     {
       "Empresa": "colombina_sa_sq",
-      "cnt": 59
+      "cnt": 58
     },
     {
       "Empresa": "j_j_colombia_sq",
@@ -141,7 +145,7 @@
   "by_pais": [
     {
       "Pais": "colombia",
-      "cnt": 7270
+      "cnt": 7263
     },
     {
       "Pais": "chile",
@@ -163,7 +167,7 @@
   "by_priority": [
     {
       "Priority": "normal",
-      "cnt": 6966
+      "cnt": 6975
     },
     {
       "Priority": "low",
@@ -181,11 +185,11 @@
   "by_type": [
     {
       "Type": "incident",
-      "cnt": 4791
+      "cnt": 4798
     },
     {
       "Type": "task",
-      "cnt": 2720
+      "cnt": 2721
     },
     {
       "Type": "question",
@@ -203,11 +207,11 @@
     },
     {
       "Nivel": "n.6_op-go-pqrs",
-      "cnt": 476
+      "cnt": 472
     },
     {
       "Nivel": "n.3_desarrollo",
-      "cnt": 400
+      "cnt": 397
     },
     {
       "Nivel": "n.14_talento_humano_sac",
@@ -253,7 +257,7 @@
     },
     {
       "Servicio_Afectado": "3.2.11_reclamacion_de_pago",
-      "cnt": 438
+      "cnt": 434
     },
     {
       "Servicio_Afectado": "37._actualización_barrio",
@@ -269,7 +273,7 @@
     },
     {
       "Servicio_Afectado": "web",
-      "cnt": 210
+      "cnt": 209
     },
     {
       "Servicio_Afectado": "7.2_cambio_de_estado",
@@ -281,14 +285,14 @@
     }
   ],
   "avg_reply_time_min": 51.2,
-  "avg_first_resolution_min": 1791.1,
-  "avg_full_resolution_min": 1909.5,
+  "avg_first_resolution_min": 1797.8,
+  "avg_full_resolution_min": 1913.6,
   "reiterative_count": 346,
   "by_calificacion": [],
   "analyst_table": [
     {
       "name": "jhon_wilches",
-      "total": 1810,
+      "total": 1809,
       "resueltos": 1793,
       "avg_res_min": 1788.0,
       "avg_reply_min": 100.0
@@ -316,7 +320,7 @@
     },
     {
       "name": "automatización",
-      "total": 442,
+      "total": 438,
       "resueltos": 427,
       "avg_res_min": 11890.0,
       "avg_reply_min": 7.0
@@ -360,14 +364,14 @@
     },
     {
       "name": "operación",
-      "total": 1064,
+      "total": 1063,
       "resueltos": 1020,
       "avg_res_min": 1893.0,
       "avg_reply_min": 102.0
     },
     {
       "name": "3.1_desarrollo",
-      "total": 1018,
+      "total": 1016,
       "resueltos": 909,
       "avg_res_min": 1832.0,
       "avg_reply_min": 144.0
@@ -388,7 +392,7 @@
     },
     {
       "name": "colaborador",
-      "total": 449,
+      "total": 445,
       "resueltos": 431,
       "avg_res_min": 11626.0,
       "avg_reply_min": 6.0
@@ -438,15 +442,15 @@
     },
     {
       "name": "n.6_op-go-pqrs",
-      "total": 476,
+      "total": 472,
       "resueltos": 457,
       "avg_reply_min": 5.0
     },
     {
       "name": "n.3_desarrollo",
-      "total": 400,
+      "total": 397,
       "resueltos": 230,
-      "avg_reply_min": 394.0
+      "avg_reply_min": 397.0
     },
     {
       "name": "n.14_talento_humano_sac",
@@ -570,12 +574,12 @@
     },
     {
       "name": "quick_go",
-      "total": 1059,
+      "total": 1054,
       "resueltos": 1015
     },
     {
       "name": "transversal",
-      "total": 140,
+      "total": 139,
       "resueltos": 111
     },
     {
@@ -595,7 +599,7 @@
     },
     {
       "name": "colombina_sa_sq",
-      "total": 59,
+      "total": 58,
       "resueltos": 45
     },
     {
@@ -652,7 +656,7 @@
     },
     {
       "name": "3.2.11_reclamacion_de_pago",
-      "total": 438,
+      "total": 434,
       "resueltos": 422
     },
     {
@@ -672,7 +676,7 @@
     },
     {
       "name": "web",
-      "total": 210,
+      "total": 209,
       "resueltos": 186
     },
     {
@@ -687,19 +691,19 @@
     }
   ],
   "sla_metrics": {
-    "total": 7640,
-    "reply_1h": 6733,
-    "res_24h": 5480,
+    "total": 7648,
+    "reply_1h": 6739,
+    "res_24h": 5485,
     "avg_csat": null,
-    "total_reopens": 417
+    "total_reopens": 420
   },
   "resolution_buckets": {
-    "bucket_1h": 3831,
-    "bucket_4h": 927,
+    "bucket_1h": 3834,
+    "bucket_4h": 928,
     "bucket_8h": 294,
-    "bucket_24h": 428,
+    "bucket_24h": 429,
     "bucket_48h": 218,
-    "bucket_more": 952
+    "bucket_more": 959
   },
   "monthly_sla_trend": [
     {
@@ -722,9 +726,9 @@
     },
     {
       "mes": "2026-04",
-      "total": 756,
-      "reply_1h": 669,
-      "res_24h": 535
+      "total": 764,
+      "reply_1h": 675,
+      "res_24h": 540
     }
   ],
   "monthly_detail": {
@@ -758,7 +762,7 @@
       "2026-02": [
         {
           "name": "correo",
-          "count": 1103
+          "count": 1102
         },
         {
           "name": "chat",
@@ -784,7 +788,7 @@
       "2026-03": [
         {
           "name": "correo",
-          "count": 898
+          "count": 897
         },
         {
           "name": "chat",
@@ -810,7 +814,7 @@
       "2026-04": [
         {
           "name": "correo",
-          "count": 318
+          "count": 317
         },
         {
           "name": "chat",
@@ -818,7 +822,7 @@
         },
         {
           "name": "app_quicker",
-          "count": 34
+          "count": 30
         },
         {
           "name": "llamada",
@@ -1116,7 +1120,7 @@
         },
         {
           "name": "transversal",
-          "count": 26
+          "count": 25
         },
         {
           "name": "colsubsidio_v4",
@@ -1374,7 +1378,7 @@
         },
         {
           "name": "colombina_sa_sq",
-          "count": 20
+          "count": 19
         },
         {
           "name": "dps_first_mile",
@@ -1628,7 +1632,7 @@
         },
         {
           "name": "quick_go",
-          "count": 106
+          "count": 101
         },
         {
           "name": "colombina_sa_sq",
@@ -1806,7 +1810,7 @@
       "2026-02": [
         {
           "name": "colombia",
-          "count": 2159
+          "count": 2158
         },
         {
           "name": "chile",
@@ -1828,7 +1832,7 @@
       "2026-03": [
         {
           "name": "colombia",
-          "count": 1740
+          "count": 1739
         },
         {
           "name": "chile",
@@ -1850,7 +1854,7 @@
       "2026-04": [
         {
           "name": "colombia",
-          "count": 586
+          "count": 581
         },
         {
           "name": "estados_unidos",
@@ -1948,7 +1952,7 @@
         },
         {
           "name": "n.3_desarrollo",
-          "count": 114
+          "count": 113
         },
         {
           "name": "n.14_talento_humano_sac",
@@ -2014,7 +2018,7 @@
         },
         {
           "name": "n.3_desarrollo",
-          "count": 112
+          "count": 111
         },
         {
           "name": "n.14_talento_humano_sac",
@@ -2076,11 +2080,11 @@
         },
         {
           "name": "n.6_op-go-pqrs",
-          "count": 32
+          "count": 28
         },
         {
           "name": "n.3_desarrollo",
-          "count": 27
+          "count": 26
         },
         {
           "name": "n.2_producto",
@@ -2182,7 +2186,7 @@
       "2026-04": [
         {
           "name": "normal",
-          "count": 663
+          "count": 672
         },
         {
           "name": "low",
@@ -2256,11 +2260,11 @@
       "2026-04": [
         {
           "name": "incident",
-          "count": 504
+          "count": 511
         },
         {
           "name": "task",
-          "count": 237
+          "count": 238
         },
         {
           "name": "problem",
@@ -2362,7 +2366,7 @@
         },
         {
           "name": "jhon_wilches",
-          "count": 123
+          "count": 122
         },
         {
           "name": "nicolas_mora",
@@ -2374,7 +2378,7 @@
         },
         {
           "name": "automatización",
-          "count": 32
+          "count": 28
         },
         {
           "name": "brayan_chacon",
@@ -2452,7 +2456,7 @@
         },
         {
           "name": "3.1_desarrollo",
-          "count": 243
+          "count": 242
         },
         {
           "name": "colaborador",
@@ -2502,7 +2506,7 @@
         },
         {
           "name": "3.1_desarrollo",
-          "count": 175
+          "count": 174
         },
         {
           "name": "colaborador",
@@ -2536,11 +2540,11 @@
         },
         {
           "name": "operación",
-          "count": 91
+          "count": 90
         },
         {
           "name": "colaborador",
-          "count": 34
+          "count": 30
         },
         {
           "name": "3.1_desarrollo",
@@ -3014,7 +3018,7 @@
         },
         {
           "name": "web",
-          "count": 64
+          "count": 63
         },
         {
           "name": "21.34_creacion_de_remesa",
@@ -3452,7 +3456,7 @@
         },
         {
           "name": "4._ruteo",
-          "count": 24
+          "count": 23
         },
         {
           "name": "4.2_zonas",
@@ -3782,7 +3786,7 @@
         },
         {
           "name": "3.2.11_reclamacion_de_pago",
-          "count": 32
+          "count": 28
         },
         {
           "name": "22._lead_comercial",
@@ -3809,11 +3813,11 @@
           "count": 11
         },
         {
-          "name": "21.24_cumplido_de_manifiesto",
-          "count": 11
+          "name": "7.2.2_cambio_estado_llegado",
+          "count": 10
         },
         {
-          "name": "7.2.2_cambio_estado_llegado",
+          "name": "21.24_cumplido_de_manifiesto",
           "count": 10
         },
         {
@@ -4041,7 +4045,7 @@
   },
   "date_range": {
     "min": "2026-01-01T00:50:00",
-    "max": "2026-04-14 13:24:42"
+    "max": "2026-04-14 15:11:17"
   },
-  "generated_at": "2026-04-14 08:59:28"
+  "generated_at": "2026-04-14 10:14:19"
 }
