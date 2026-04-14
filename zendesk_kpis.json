@@ -1,17 +1,17 @@
 {
-  "total_tickets": 7679,
+  "total_tickets": 7697,
   "by_status": [
     {
       "Status": "closed",
-      "cnt": 6585
+      "cnt": 6607
     },
     {
       "Status": "open",
-      "cnt": 974
+      "cnt": 980
     },
     {
       "Status": "solved",
-      "cnt": 106
+      "cnt": 97
     },
     {
       "Status": "pending",
@@ -23,11 +23,11 @@
     },
     {
       "Status": "new",
-      "cnt": 2
+      "cnt": 1
     }
   ],
-  "resueltos": 6691,
-  "abiertos": 981,
+  "resueltos": 6704,
+  "abiertos": 987,
   "monthly_trend": [
     {
       "mes": "2026-01",
@@ -49,9 +49,9 @@
     },
     {
       "mes": "2026-04",
-      "total": 795,
-      "resueltos": 648,
-      "abiertos": 142
+      "total": 813,
+      "resueltos": 661,
+      "abiertos": 148
     }
   ],
   "by_canal": [
@@ -61,7 +61,7 @@
     },
     {
       "Canal": "correo",
-      "cnt": 3199
+      "cnt": 3197
     },
     {
       "Canal": "app_quicker",
@@ -95,7 +95,7 @@
     },
     {
       "Empresa": "transversal",
-      "cnt": 139
+      "cnt": 138
     },
     {
       "Empresa": "embotelladora_andina_sa",
@@ -145,7 +145,7 @@
   "by_pais": [
     {
       "Pais": "colombia",
-      "cnt": 7257
+      "cnt": 7255
     },
     {
       "Pais": "chile",
@@ -167,11 +167,11 @@
   "by_priority": [
     {
       "Priority": "normal",
-      "cnt": 7000
+      "cnt": 7017
     },
     {
       "Priority": "low",
-      "cnt": 513
+      "cnt": 514
     },
     {
       "Priority": "high",
@@ -185,11 +185,11 @@
   "by_type": [
     {
       "Type": "incident",
-      "cnt": 4814
+      "cnt": 4825
     },
     {
       "Type": "task",
-      "cnt": 2732
+      "cnt": 2739
     },
     {
       "Type": "question",
@@ -219,7 +219,7 @@
     },
     {
       "Nivel": "n.2_producto",
-      "cnt": 174
+      "cnt": 172
     },
     {
       "Nivel": "n.14_urban_distribution_sac",
@@ -284,15 +284,15 @@
       "cnt": 177
     }
   ],
-  "avg_reply_time_min": 51.2,
-  "avg_first_resolution_min": 1799.9,
-  "avg_full_resolution_min": 1915.5,
-  "reiterative_count": 346,
+  "avg_reply_time_min": 51.1,
+  "avg_first_resolution_min": 1796.7,
+  "avg_full_resolution_min": 1911.8,
+  "reiterative_count": 345,
   "by_calificacion": [],
   "analyst_table": [
     {
       "name": "jhon_wilches",
-      "total": 1809,
+      "total": 1808,
       "resueltos": 1793,
       "avg_res_min": 1788.0,
       "avg_reply_min": 100.0
@@ -364,7 +364,7 @@
     },
     {
       "name": "operación",
-      "total": 1062,
+      "total": 1060,
       "resueltos": 1020,
       "avg_res_min": 1893.0,
       "avg_reply_min": 102.0
@@ -460,9 +460,9 @@
     },
     {
       "name": "n.2_producto",
-      "total": 174,
+      "total": 172,
       "resueltos": 148,
-      "avg_reply_min": 305.0
+      "avg_reply_min": 308.0
     },
     {
       "name": "n.14_urban_distribution_sac",
@@ -579,7 +579,7 @@
     },
     {
       "name": "transversal",
-      "total": 139,
+      "total": 138,
       "resueltos": 111
     },
     {
@@ -691,17 +691,17 @@
     }
   ],
   "sla_metrics": {
-    "total": 7679,
-    "reply_1h": 6770,
-    "res_24h": 5501,
+    "total": 7697,
+    "reply_1h": 6789,
+    "res_24h": 5515,
     "avg_csat": null,
-    "total_reopens": 431
+    "total_reopens": 434
   },
   "resolution_buckets": {
-    "bucket_1h": 3848,
-    "bucket_4h": 930,
+    "bucket_1h": 3858,
+    "bucket_4h": 933,
     "bucket_8h": 294,
-    "bucket_24h": 429,
+    "bucket_24h": 430,
     "bucket_48h": 219,
     "bucket_more": 970
   },
@@ -726,9 +726,9 @@
     },
     {
       "mes": "2026-04",
-      "total": 795,
-      "reply_1h": 706,
-      "res_24h": 556
+      "total": 813,
+      "reply_1h": 725,
+      "res_24h": 570
     }
   ],
   "monthly_detail": {
@@ -788,7 +788,7 @@
       "2026-03": [
         {
           "name": "correo",
-          "count": 897
+          "count": 895
         },
         {
           "name": "chat",
@@ -1358,7 +1358,7 @@
         },
         {
           "name": "transversal",
-          "count": 43
+          "count": 42
         },
         {
           "name": "embotelladora_andina_sa",
@@ -1477,10 +1477,6 @@
           "count": 2
         },
         {
-          "name": "loreal_mensajería",
-          "count": 2
-        },
-        {
           "name": "levapan_sq",
           "count": 2
         },
@@ -1574,6 +1570,10 @@
         },
         {
           "name": "mercadolibre",
+          "count": 1
+        },
+        {
+          "name": "loreal_mensajería",
           "count": 1
         },
         {
@@ -1828,7 +1828,7 @@
       "2026-03": [
         {
           "name": "colombia",
-          "count": 1739
+          "count": 1737
         },
         {
           "name": "chile",
@@ -2022,7 +2022,7 @@
         },
         {
           "name": "n.2_producto",
-          "count": 51
+          "count": 49
         },
         {
           "name": "n.14_comercial_sac",
@@ -2182,11 +2182,11 @@
       "2026-04": [
         {
           "name": "normal",
-          "count": 697
+          "count": 714
         },
         {
           "name": "low",
-          "count": 72
+          "count": 73
         },
         {
           "name": "high",
@@ -2256,11 +2256,11 @@
       "2026-04": [
         {
           "name": "incident",
-          "count": 527
+          "count": 538
         },
         {
           "name": "task",
-          "count": 249
+          "count": 256
         },
         {
           "name": "problem",
@@ -2332,7 +2332,7 @@
         },
         {
           "name": "jhon_wilches",
-          "count": 385
+          "count": 384
         },
         {
           "name": "brayan_chacon",
@@ -2494,7 +2494,7 @@
         },
         {
           "name": "operación",
-          "count": 296
+          "count": 294
         },
         {
           "name": "tech",
@@ -3436,7 +3436,7 @@
         },
         {
           "name": "3.2_configuración_",
-          "count": 29
+          "count": 28
         },
         {
           "name": "3.2.1_clientes__usuarios_",
@@ -3635,10 +3635,6 @@
           "count": 3
         },
         {
-          "name": "1.asignación_de_coordenadas",
-          "count": 3
-        },
-        {
           "name": "8.6_actualización_base_dinámica",
           "count": 2
         },
@@ -3680,6 +3676,10 @@
         },
         {
           "name": "10._seguimiento_a_tu_pedido",
+          "count": 2
+        },
+        {
+          "name": "1.asignación_de_coordenadas",
           "count": 2
         },
         {
@@ -4041,7 +4041,7 @@
   },
   "date_range": {
     "min": "2026-01-01T00:50:00",
-    "max": "2026-04-14 20:11:28"
+    "max": "2026-04-14 23:44:26"
   },
-  "generated_at": "2026-04-14 15:14:25"
+  "generated_at": "2026-04-14 18:51:26"
 }
