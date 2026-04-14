@@ -1,17 +1,17 @@
 {
-  "total_tickets": 7671,
+  "total_tickets": 7679,
   "by_status": [
     {
       "Status": "closed",
-      "cnt": 6580
+      "cnt": 6585
     },
     {
       "Status": "open",
-      "cnt": 969
+      "cnt": 974
     },
     {
       "Status": "solved",
-      "cnt": 110
+      "cnt": 106
     },
     {
       "Status": "pending",
@@ -20,10 +20,14 @@
     {
       "Status": "hold",
       "cnt": 5
+    },
+    {
+      "Status": "new",
+      "cnt": 2
     }
   ],
-  "resueltos": 6690,
-  "abiertos": 976,
+  "resueltos": 6691,
+  "abiertos": 981,
   "monthly_trend": [
     {
       "mes": "2026-01",
@@ -45,9 +49,9 @@
     },
     {
       "mes": "2026-04",
-      "total": 787,
-      "resueltos": 647,
-      "abiertos": 137
+      "total": 795,
+      "resueltos": 648,
+      "abiertos": 142
     }
   ],
   "by_canal": [
@@ -163,7 +167,7 @@
   "by_priority": [
     {
       "Priority": "normal",
-      "cnt": 6996
+      "cnt": 7000
     },
     {
       "Priority": "low",
@@ -181,11 +185,11 @@
   "by_type": [
     {
       "Type": "incident",
-      "cnt": 4812
+      "cnt": 4814
     },
     {
       "Type": "task",
-      "cnt": 2730
+      "cnt": 2732
     },
     {
       "Type": "question",
@@ -281,7 +285,7 @@
     }
   ],
   "avg_reply_time_min": 51.2,
-  "avg_first_resolution_min": 1800.2,
+  "avg_first_resolution_min": 1799.9,
   "avg_full_resolution_min": 1915.5,
   "reiterative_count": 346,
   "by_calificacion": [],
@@ -687,15 +691,15 @@
     }
   ],
   "sla_metrics": {
-    "total": 7671,
-    "reply_1h": 6764,
+    "total": 7679,
+    "reply_1h": 6770,
     "res_24h": 5501,
     "avg_csat": null,
-    "total_reopens": 429
+    "total_reopens": 431
   },
   "resolution_buckets": {
-    "bucket_1h": 3847,
-    "bucket_4h": 931,
+    "bucket_1h": 3848,
+    "bucket_4h": 930,
     "bucket_8h": 294,
     "bucket_24h": 429,
     "bucket_48h": 219,
@@ -722,8 +726,8 @@
     },
     {
       "mes": "2026-04",
-      "total": 787,
-      "reply_1h": 700,
+      "total": 795,
+      "reply_1h": 706,
       "res_24h": 556
     }
   ],
@@ -2178,7 +2182,7 @@
       "2026-04": [
         {
           "name": "normal",
-          "count": 693
+          "count": 697
         },
         {
           "name": "low",
@@ -2252,11 +2256,11 @@
       "2026-04": [
         {
           "name": "incident",
-          "count": 525
+          "count": 527
         },
         {
           "name": "task",
-          "count": 247
+          "count": 249
         },
         {
           "name": "problem",
@@ -4037,7 +4041,7 @@
   },
   "date_range": {
     "min": "2026-01-01T00:50:00",
-    "max": "2026-04-14 19:01:53"
+    "max": "2026-04-14 20:11:28"
   },
-  "generated_at": "2026-04-14 14:25:23"
+  "generated_at": "2026-04-14 15:14:25"
 }
