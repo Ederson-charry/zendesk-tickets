@@ -1,17 +1,17 @@
 {
-  "total_tickets": 7648,
+  "total_tickets": 7671,
   "by_status": [
     {
       "Status": "closed",
-      "cnt": 6548
+      "cnt": 6580
     },
     {
       "Status": "open",
-      "cnt": 974
+      "cnt": 969
     },
     {
       "Status": "solved",
-      "cnt": 114
+      "cnt": 110
     },
     {
       "Status": "pending",
@@ -19,15 +19,11 @@
     },
     {
       "Status": "hold",
-      "cnt": 4
-    },
-    {
-      "Status": "new",
-      "cnt": 1
+      "cnt": 5
     }
   ],
-  "resueltos": 6662,
-  "abiertos": 981,
+  "resueltos": 6690,
+  "abiertos": 976,
   "monthly_trend": [
     {
       "mes": "2026-01",
@@ -49,23 +45,23 @@
     },
     {
       "mes": "2026-04",
-      "total": 764,
-      "resueltos": 619,
-      "abiertos": 142
+      "total": 787,
+      "resueltos": 647,
+      "abiertos": 137
     }
   ],
   "by_canal": [
     {
       "Canal": "chat",
-      "cnt": 3626
+      "cnt": 3625
     },
     {
       "Canal": "correo",
-      "cnt": 3202
+      "cnt": 3199
     },
     {
       "Canal": "app_quicker",
-      "cnt": 447
+      "cnt": 446
     },
     {
       "Canal": "llamada",
@@ -73,7 +69,7 @@
     },
     {
       "Canal": "whatasapp",
-      "cnt": 44
+      "cnt": 43
     },
     {
       "Canal": "ticket_secundario",
@@ -91,7 +87,7 @@
     },
     {
       "Empresa": "quick_go",
-      "cnt": 1054
+      "cnt": 1052
     },
     {
       "Empresa": "transversal",
@@ -103,7 +99,7 @@
     },
     {
       "Empresa": "cafam",
-      "cnt": 68
+      "cnt": 67
     },
     {
       "Empresa": "dps_first_mile",
@@ -111,7 +107,7 @@
     },
     {
       "Empresa": "colombina_sa_sq",
-      "cnt": 58
+      "cnt": 57
     },
     {
       "Empresa": "j_j_colombia_sq",
@@ -119,7 +115,7 @@
     },
     {
       "Empresa": "colsubsidio_v4",
-      "cnt": 51
+      "cnt": 50
     },
     {
       "Empresa": "colsubsidio_eps",
@@ -145,7 +141,7 @@
   "by_pais": [
     {
       "Pais": "colombia",
-      "cnt": 7263
+      "cnt": 7257
     },
     {
       "Pais": "chile",
@@ -167,15 +163,15 @@
   "by_priority": [
     {
       "Priority": "normal",
-      "cnt": 6975
+      "cnt": 6996
     },
     {
       "Priority": "low",
-      "cnt": 512
+      "cnt": 513
     },
     {
       "Priority": "high",
-      "cnt": 106
+      "cnt": 107
     },
     {
       "Priority": "urgent",
@@ -185,11 +181,11 @@
   "by_type": [
     {
       "Type": "incident",
-      "cnt": 4798
+      "cnt": 4812
     },
     {
       "Type": "task",
-      "cnt": 2721
+      "cnt": 2730
     },
     {
       "Type": "question",
@@ -207,11 +203,11 @@
     },
     {
       "Nivel": "n.6_op-go-pqrs",
-      "cnt": 472
+      "cnt": 471
     },
     {
       "Nivel": "n.3_desarrollo",
-      "cnt": 397
+      "cnt": 392
     },
     {
       "Nivel": "n.14_talento_humano_sac",
@@ -257,7 +253,7 @@
     },
     {
       "Servicio_Afectado": "3.2.11_reclamacion_de_pago",
-      "cnt": 434
+      "cnt": 433
     },
     {
       "Servicio_Afectado": "37._actualización_barrio",
@@ -285,8 +281,8 @@
     }
   ],
   "avg_reply_time_min": 51.2,
-  "avg_first_resolution_min": 1797.8,
-  "avg_full_resolution_min": 1913.6,
+  "avg_first_resolution_min": 1800.2,
+  "avg_full_resolution_min": 1915.5,
   "reiterative_count": 346,
   "by_calificacion": [],
   "analyst_table": [
@@ -320,7 +316,7 @@
     },
     {
       "name": "automatización",
-      "total": 438,
+      "total": 437,
       "resueltos": 427,
       "avg_res_min": 11890.0,
       "avg_reply_min": 7.0
@@ -334,7 +330,7 @@
     },
     {
       "name": "francisco_javier_ciro",
-      "total": 68,
+      "total": 67,
       "resueltos": 67,
       "avg_res_min": 96.0,
       "avg_reply_min": 5.0
@@ -350,7 +346,7 @@
   "responsable_table": [
     {
       "name": "cliente",
-      "total": 2012,
+      "total": 2011,
       "resueltos": 1304,
       "avg_res_min": 814.0,
       "avg_reply_min": 15.0
@@ -364,17 +360,17 @@
     },
     {
       "name": "operación",
-      "total": 1063,
+      "total": 1062,
       "resueltos": 1020,
       "avg_res_min": 1893.0,
       "avg_reply_min": 102.0
     },
     {
       "name": "3.1_desarrollo",
-      "total": 1016,
+      "total": 1013,
       "resueltos": 909,
       "avg_res_min": 1832.0,
-      "avg_reply_min": 144.0
+      "avg_reply_min": 145.0
     },
     {
       "name": "tech",
@@ -392,7 +388,7 @@
     },
     {
       "name": "colaborador",
-      "total": 445,
+      "total": 444,
       "resueltos": 431,
       "avg_res_min": 11626.0,
       "avg_reply_min": 6.0
@@ -442,15 +438,15 @@
     },
     {
       "name": "n.6_op-go-pqrs",
-      "total": 472,
+      "total": 471,
       "resueltos": 457,
       "avg_reply_min": 5.0
     },
     {
       "name": "n.3_desarrollo",
-      "total": 397,
+      "total": 392,
       "resueltos": 230,
-      "avg_reply_min": 397.0
+      "avg_reply_min": 401.0
     },
     {
       "name": "n.14_talento_humano_sac",
@@ -574,7 +570,7 @@
     },
     {
       "name": "quick_go",
-      "total": 1054,
+      "total": 1052,
       "resueltos": 1015
     },
     {
@@ -589,7 +585,7 @@
     },
     {
       "name": "cafam",
-      "total": 68,
+      "total": 67,
       "resueltos": 63
     },
     {
@@ -599,7 +595,7 @@
     },
     {
       "name": "colombina_sa_sq",
-      "total": 58,
+      "total": 57,
       "resueltos": 45
     },
     {
@@ -609,7 +605,7 @@
     },
     {
       "name": "colsubsidio_v4",
-      "total": 51,
+      "total": 50,
       "resueltos": 36
     },
     {
@@ -656,7 +652,7 @@
     },
     {
       "name": "3.2.11_reclamacion_de_pago",
-      "total": 434,
+      "total": 433,
       "resueltos": 422
     },
     {
@@ -691,19 +687,19 @@
     }
   ],
   "sla_metrics": {
-    "total": 7648,
-    "reply_1h": 6739,
-    "res_24h": 5485,
+    "total": 7671,
+    "reply_1h": 6764,
+    "res_24h": 5501,
     "avg_csat": null,
-    "total_reopens": 420
+    "total_reopens": 429
   },
   "resolution_buckets": {
-    "bucket_1h": 3834,
-    "bucket_4h": 928,
+    "bucket_1h": 3847,
+    "bucket_4h": 931,
     "bucket_8h": 294,
     "bucket_24h": 429,
-    "bucket_48h": 218,
-    "bucket_more": 959
+    "bucket_48h": 219,
+    "bucket_more": 970
   },
   "monthly_sla_trend": [
     {
@@ -726,9 +722,9 @@
     },
     {
       "mes": "2026-04",
-      "total": 764,
-      "reply_1h": 675,
-      "res_24h": 540
+      "total": 787,
+      "reply_1h": 700,
+      "res_24h": 556
     }
   ],
   "monthly_detail": {
@@ -814,15 +810,15 @@
       "2026-04": [
         {
           "name": "correo",
-          "count": 317
+          "count": 314
         },
         {
           "name": "chat",
-          "count": 228
+          "count": 227
         },
         {
           "name": "app_quicker",
-          "count": 30
+          "count": 29
         },
         {
           "name": "llamada",
@@ -830,7 +826,7 @@
         },
         {
           "name": "whatasapp",
-          "count": 4
+          "count": 3
         },
         {
           "name": "ticket_secundario",
@@ -1632,26 +1628,26 @@
         },
         {
           "name": "quick_go",
-          "count": 101
-        },
-        {
-          "name": "colombina_sa_sq",
-          "count": 6
+          "count": 99
         },
         {
           "name": "dps_first_mile",
           "count": 5
         },
         {
-          "name": "colsubsidio_v4",
-          "count": 5
-        },
-        {
-          "name": "cafam",
+          "name": "colombina_sa_sq",
           "count": 5
         },
         {
           "name": "cruz_verde",
+          "count": 4
+        },
+        {
+          "name": "colsubsidio_v4",
+          "count": 4
+        },
+        {
+          "name": "cafam",
           "count": 4
         },
         {
@@ -1700,10 +1696,6 @@
         },
         {
           "name": "smith___nephew_sq",
-          "count": 1
-        },
-        {
-          "name": "smartdemo",
           "count": 1
         },
         {
@@ -1854,7 +1846,7 @@
       "2026-04": [
         {
           "name": "colombia",
-          "count": 581
+          "count": 575
         },
         {
           "name": "estados_unidos",
@@ -2080,15 +2072,15 @@
         },
         {
           "name": "n.6_op-go-pqrs",
-          "count": 28
-        },
-        {
-          "name": "n.3_desarrollo",
-          "count": 26
+          "count": 27
         },
         {
           "name": "n.2_producto",
           "count": 24
+        },
+        {
+          "name": "n.3_desarrollo",
+          "count": 21
         },
         {
           "name": "n.14_talento_humano_sac",
@@ -2186,15 +2178,15 @@
       "2026-04": [
         {
           "name": "normal",
-          "count": 672
+          "count": 693
         },
         {
           "name": "low",
-          "count": 71
+          "count": 72
         },
         {
           "name": "high",
-          "count": 13
+          "count": 14
         },
         {
           "name": "urgent",
@@ -2260,11 +2252,11 @@
       "2026-04": [
         {
           "name": "incident",
-          "count": 511
+          "count": 525
         },
         {
           "name": "task",
-          "count": 238
+          "count": 247
         },
         {
           "name": "problem",
@@ -2374,11 +2366,11 @@
         },
         {
           "name": "francisco_javier_ciro",
-          "count": 68
+          "count": 67
         },
         {
           "name": "automatización",
-          "count": 28
+          "count": 27
         },
         {
           "name": "brayan_chacon",
@@ -2536,19 +2528,19 @@
         },
         {
           "name": "cliente",
-          "count": 120
+          "count": 119
         },
         {
           "name": "operación",
-          "count": 90
+          "count": 89
         },
         {
           "name": "colaborador",
-          "count": 30
+          "count": 29
         },
         {
           "name": "3.1_desarrollo",
-          "count": 28
+          "count": 25
         },
         {
           "name": "8._ministerio",
@@ -3786,7 +3778,7 @@
         },
         {
           "name": "3.2.11_reclamacion_de_pago",
-          "count": 28
+          "count": 27
         },
         {
           "name": "22._lead_comercial",
@@ -3801,11 +3793,11 @@
           "count": 16
         },
         {
-          "name": "3.1.6_cambio_de_novedad",
-          "count": 12
+          "name": "35._diferencia_en_direcciones",
+          "count": 11
         },
         {
-          "name": "35._diferencia_en_direcciones",
+          "name": "3.1.6_cambio_de_novedad",
           "count": 11
         },
         {
@@ -3833,16 +3825,12 @@
           "count": 7
         },
         {
-          "name": "integración",
-          "count": 6
-        },
-        {
-          "name": "3.2_configuración_",
-          "count": 6
-        },
-        {
           "name": "3.1.18_barrio",
           "count": 6
+        },
+        {
+          "name": "integración",
+          "count": 5
         },
         {
           "name": "exportables",
@@ -3850,6 +3838,10 @@
         },
         {
           "name": "37._actualización_barrio",
+          "count": 5
+        },
+        {
+          "name": "3.2_configuración_",
           "count": 5
         },
         {
@@ -3869,10 +3861,6 @@
           "count": 4
         },
         {
-          "name": "21.2_creción_de_terceros",
-          "count": 4
-        },
-        {
           "name": "8.3_archivo_de_promociones",
           "count": 3
         },
@@ -3889,10 +3877,6 @@
           "count": 3
         },
         {
-          "name": "3.2.14_ingreso_a_plataforma",
-          "count": 3
-        },
-        {
           "name": "3.1.14_filtros_optimizador",
           "count": 3
         },
@@ -3902,6 +3886,10 @@
         },
         {
           "name": "21.36_consulta_de_manifiestos",
+          "count": 3
+        },
+        {
+          "name": "21.2_creción_de_terceros",
           "count": 3
         },
         {
@@ -3938,6 +3926,10 @@
         },
         {
           "name": "3.2.16_desbloqueo_de_usuarios",
+          "count": 2
+        },
+        {
+          "name": "3.2.14_ingreso_a_plataforma",
           "count": 2
         },
         {
@@ -4045,7 +4037,7 @@
   },
   "date_range": {
     "min": "2026-01-01T00:50:00",
-    "max": "2026-04-14 15:11:17"
+    "max": "2026-04-14 19:01:53"
   },
-  "generated_at": "2026-04-14 10:14:19"
+  "generated_at": "2026-04-14 14:25:23"
 }
