@@ -1,29 +1,29 @@
 {
-  "total_tickets": 7598,
+  "total_tickets": 7640,
   "by_status": [
     {
       "Status": "closed",
-      "cnt": 6535
+      "cnt": 6541
     },
     {
       "Status": "open",
-      "cnt": 983
+      "cnt": 981
     },
     {
       "Status": "solved",
-      "cnt": 65
+      "cnt": 110
     },
     {
       "Status": "pending",
-      "cnt": 10
+      "cnt": 7
     },
     {
       "Status": "hold",
-      "cnt": 5
+      "cnt": 1
     }
   ],
-  "resueltos": 6600,
-  "abiertos": 993,
+  "resueltos": 6651,
+  "abiertos": 988,
   "monthly_trend": [
     {
       "mes": "2026-01",
@@ -45,23 +45,23 @@
     },
     {
       "mes": "2026-04",
-      "total": 714,
-      "resueltos": 557,
-      "abiertos": 152
+      "total": 756,
+      "resueltos": 608,
+      "abiertos": 147
     }
   ],
   "by_canal": [
     {
       "Canal": "chat",
-      "cnt": 3628
+      "cnt": 3626
     },
     {
       "Canal": "correo",
-      "cnt": 3208
+      "cnt": 3205
     },
     {
       "Canal": "app_quicker",
-      "cnt": 454
+      "cnt": 451
     },
     {
       "Canal": "llamada",
@@ -83,11 +83,11 @@
     },
     {
       "Empresa": "supply_cn",
-      "cnt": 1231
+      "cnt": 1229
     },
     {
       "Empresa": "quick_go",
-      "cnt": 1064
+      "cnt": 1059
     },
     {
       "Empresa": "transversal",
@@ -111,7 +111,7 @@
     },
     {
       "Empresa": "j_j_colombia_sq",
-      "cnt": 53
+      "cnt": 52
     },
     {
       "Empresa": "colsubsidio_v4",
@@ -141,7 +141,7 @@
   "by_pais": [
     {
       "Pais": "colombia",
-      "cnt": 7278
+      "cnt": 7270
     },
     {
       "Pais": "chile",
@@ -163,15 +163,15 @@
   "by_priority": [
     {
       "Priority": "normal",
-      "cnt": 6929
+      "cnt": 6966
     },
     {
       "Priority": "low",
-      "cnt": 507
+      "cnt": 512
     },
     {
       "Priority": "high",
-      "cnt": 104
+      "cnt": 106
     },
     {
       "Priority": "urgent",
@@ -181,15 +181,15 @@
   "by_type": [
     {
       "Type": "incident",
-      "cnt": 4766
+      "cnt": 4791
     },
     {
       "Type": "task",
-      "cnt": 2702
+      "cnt": 2720
     },
     {
       "Type": "question",
-      "cnt": 75
+      "cnt": 76
     },
     {
       "Type": "problem",
@@ -199,15 +199,15 @@
   "by_nivel": [
     {
       "Nivel": "n.1_soporte",
-      "cnt": 5506
+      "cnt": 5502
     },
     {
       "Nivel": "n.6_op-go-pqrs",
-      "cnt": 479
+      "cnt": 476
     },
     {
       "Nivel": "n.3_desarrollo",
-      "cnt": 401
+      "cnt": 400
     },
     {
       "Nivel": "n.14_talento_humano_sac",
@@ -241,7 +241,7 @@
   "by_servicio": [
     {
       "Servicio_Afectado": "21.35_creacion_de_manifiesto",
-      "cnt": 788
+      "cnt": 787
     },
     {
       "Servicio_Afectado": "7.2.2_cambio_estado_llegado",
@@ -253,7 +253,7 @@
     },
     {
       "Servicio_Afectado": "3.2.11_reclamacion_de_pago",
-      "cnt": 441
+      "cnt": 438
     },
     {
       "Servicio_Afectado": "37._actualización_barrio",
@@ -265,7 +265,7 @@
     },
     {
       "Servicio_Afectado": "5._georeferenciación",
-      "cnt": 355
+      "cnt": 354
     },
     {
       "Servicio_Afectado": "web",
@@ -280,15 +280,15 @@
       "cnt": 177
     }
   ],
-  "avg_reply_time_min": 50.8,
-  "avg_first_resolution_min": 1794.5,
-  "avg_full_resolution_min": 1913.8,
+  "avg_reply_time_min": 51.2,
+  "avg_first_resolution_min": 1791.1,
+  "avg_full_resolution_min": 1909.5,
   "reiterative_count": 346,
   "by_calificacion": [],
   "analyst_table": [
     {
       "name": "jhon_wilches",
-      "total": 1811,
+      "total": 1810,
       "resueltos": 1793,
       "avg_res_min": 1788.0,
       "avg_reply_min": 100.0
@@ -309,14 +309,14 @@
     },
     {
       "name": "helen_benavides",
-      "total": 852,
+      "total": 851,
       "resueltos": 851,
       "avg_res_min": 195.0,
       "avg_reply_min": 11.0
     },
     {
       "name": "automatización",
-      "total": 445,
+      "total": 442,
       "resueltos": 427,
       "avg_res_min": 11890.0,
       "avg_reply_min": 7.0
@@ -360,21 +360,21 @@
     },
     {
       "name": "operación",
-      "total": 1066,
+      "total": 1064,
       "resueltos": 1020,
       "avg_res_min": 1893.0,
       "avg_reply_min": 102.0
     },
     {
       "name": "3.1_desarrollo",
-      "total": 1019,
+      "total": 1018,
       "resueltos": 909,
       "avg_res_min": 1832.0,
       "avg_reply_min": 144.0
     },
     {
       "name": "tech",
-      "total": 804,
+      "total": 803,
       "resueltos": 783,
       "avg_res_min": 823.0,
       "avg_reply_min": 78.0
@@ -388,7 +388,7 @@
     },
     {
       "name": "colaborador",
-      "total": 452,
+      "total": 449,
       "resueltos": 431,
       "avg_res_min": 11626.0,
       "avg_reply_min": 6.0
@@ -402,7 +402,7 @@
     },
     {
       "name": "3.2_producto",
-      "total": 93,
+      "total": 92,
       "resueltos": 78,
       "avg_res_min": 7623.0,
       "avg_reply_min": 58.0
@@ -432,19 +432,19 @@
   "nivel_table": [
     {
       "name": "n.1_soporte",
-      "total": 5506,
+      "total": 5502,
       "resueltos": 5501,
       "avg_reply_min": 30.0
     },
     {
       "name": "n.6_op-go-pqrs",
-      "total": 479,
+      "total": 476,
       "resueltos": 457,
       "avg_reply_min": 5.0
     },
     {
       "name": "n.3_desarrollo",
-      "total": 401,
+      "total": 400,
       "resueltos": 230,
       "avg_reply_min": 394.0
     },
@@ -565,12 +565,12 @@
     },
     {
       "name": "supply_cn",
-      "total": 1231,
+      "total": 1229,
       "resueltos": 1218
     },
     {
       "name": "quick_go",
-      "total": 1064,
+      "total": 1059,
       "resueltos": 1015
     },
     {
@@ -600,7 +600,7 @@
     },
     {
       "name": "j_j_colombia_sq",
-      "total": 53,
+      "total": 52,
       "resueltos": 41
     },
     {
@@ -637,7 +637,7 @@
   "servicio_table": [
     {
       "name": "21.35_creacion_de_manifiesto",
-      "total": 788,
+      "total": 787,
       "resueltos": 787
     },
     {
@@ -652,7 +652,7 @@
     },
     {
       "name": "3.2.11_reclamacion_de_pago",
-      "total": 441,
+      "total": 438,
       "resueltos": 422
     },
     {
@@ -667,7 +667,7 @@
     },
     {
       "name": "5._georeferenciación",
-      "total": 355,
+      "total": 354,
       "resueltos": 352
     },
     {
@@ -687,19 +687,19 @@
     }
   ],
   "sla_metrics": {
-    "total": 7598,
-    "reply_1h": 6695,
-    "res_24h": 5440,
+    "total": 7640,
+    "reply_1h": 6733,
+    "res_24h": 5480,
     "avg_csat": null,
-    "total_reopens": 413
+    "total_reopens": 417
   },
   "resolution_buckets": {
-    "bucket_1h": 3805,
-    "bucket_4h": 922,
+    "bucket_1h": 3831,
+    "bucket_4h": 927,
     "bucket_8h": 294,
-    "bucket_24h": 419,
-    "bucket_48h": 217,
-    "bucket_more": 942
+    "bucket_24h": 428,
+    "bucket_48h": 218,
+    "bucket_more": 952
   },
   "monthly_sla_trend": [
     {
@@ -722,9 +722,9 @@
     },
     {
       "mes": "2026-04",
-      "total": 714,
-      "reply_1h": 631,
-      "res_24h": 495
+      "total": 756,
+      "reply_1h": 669,
+      "res_24h": 535
     }
   ],
   "monthly_detail": {
@@ -810,15 +810,15 @@
       "2026-04": [
         {
           "name": "correo",
-          "count": 321
+          "count": 318
         },
         {
           "name": "chat",
-          "count": 230
+          "count": 228
         },
         {
           "name": "app_quicker",
-          "count": 37
+          "count": 34
         },
         {
           "name": "llamada",
@@ -1620,7 +1620,7 @@
       "2026-04": [
         {
           "name": "supply_cn",
-          "count": 197
+          "count": 195
         },
         {
           "name": "eps_sanitas_sq",
@@ -1628,7 +1628,7 @@
         },
         {
           "name": "quick_go",
-          "count": 111
+          "count": 106
         },
         {
           "name": "colombina_sa_sq",
@@ -1647,10 +1647,6 @@
           "count": 5
         },
         {
-          "name": "j_j_colombia_sq",
-          "count": 4
-        },
-        {
           "name": "cruz_verde",
           "count": 4
         },
@@ -1660,6 +1656,10 @@
         },
         {
           "name": "quick_usa",
+          "count": 3
+        },
+        {
+          "name": "j_j_colombia_sq",
           "count": 3
         },
         {
@@ -1850,7 +1850,7 @@
       "2026-04": [
         {
           "name": "colombia",
-          "count": 594
+          "count": 586
         },
         {
           "name": "estados_unidos",
@@ -2072,15 +2072,15 @@
       "2026-04": [
         {
           "name": "n.1_soporte",
-          "count": 454
+          "count": 450
         },
         {
           "name": "n.6_op-go-pqrs",
-          "count": 35
+          "count": 32
         },
         {
           "name": "n.3_desarrollo",
-          "count": 28
+          "count": 27
         },
         {
           "name": "n.2_producto",
@@ -2182,15 +2182,15 @@
       "2026-04": [
         {
           "name": "normal",
-          "count": 626
+          "count": 663
         },
         {
           "name": "low",
-          "count": 66
+          "count": 71
         },
         {
           "name": "high",
-          "count": 11
+          "count": 13
         },
         {
           "name": "urgent",
@@ -2256,11 +2256,11 @@
       "2026-04": [
         {
           "name": "incident",
-          "count": 479
+          "count": 504
         },
         {
           "name": "task",
-          "count": 219
+          "count": 237
         },
         {
           "name": "problem",
@@ -2268,7 +2268,7 @@
         },
         {
           "name": "question",
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -2358,11 +2358,11 @@
       "2026-04": [
         {
           "name": "helen_benavides",
-          "count": 150
+          "count": 149
         },
         {
           "name": "jhon_wilches",
-          "count": 124
+          "count": 123
         },
         {
           "name": "nicolas_mora",
@@ -2374,7 +2374,7 @@
         },
         {
           "name": "automatización",
-          "count": 35
+          "count": 32
         },
         {
           "name": "brayan_chacon",
@@ -2524,7 +2524,7 @@
       "2026-04": [
         {
           "name": "tech",
-          "count": 159
+          "count": 158
         },
         {
           "name": "3.3__service_desk",
@@ -2536,15 +2536,15 @@
         },
         {
           "name": "operación",
-          "count": 93
+          "count": 91
         },
         {
           "name": "colaborador",
-          "count": 37
+          "count": 34
         },
         {
           "name": "3.1_desarrollo",
-          "count": 29
+          "count": 28
         },
         {
           "name": "8._ministerio",
@@ -2552,7 +2552,7 @@
         },
         {
           "name": "3.2_producto",
-          "count": 15
+          "count": 14
         },
         {
           "name": "call",
@@ -3766,7 +3766,7 @@
       "2026-04": [
         {
           "name": "21.35_creacion_de_manifiesto",
-          "count": 162
+          "count": 161
         },
         {
           "name": "25._sin_interacción_con_cliente__chat_",
@@ -3777,12 +3777,12 @@
           "count": 36
         },
         {
-          "name": "3.2.11_reclamacion_de_pago",
-          "count": 35
+          "name": "5._georeferenciación",
+          "count": 32
         },
         {
-          "name": "5._georeferenciación",
-          "count": 33
+          "name": "3.2.11_reclamacion_de_pago",
+          "count": 32
         },
         {
           "name": "22._lead_comercial",
@@ -3821,10 +3821,6 @@
           "count": 9
         },
         {
-          "name": "integración",
-          "count": 7
-        },
-        {
           "name": "3.1.3_crear_servicios",
           "count": 7
         },
@@ -3833,7 +3829,7 @@
           "count": 7
         },
         {
-          "name": "exportables",
+          "name": "integración",
           "count": 6
         },
         {
@@ -3843,6 +3839,10 @@
         {
           "name": "3.1.18_barrio",
           "count": 6
+        },
+        {
+          "name": "exportables",
+          "count": 5
         },
         {
           "name": "37._actualización_barrio",
@@ -3997,10 +3997,6 @@
           "count": 1
         },
         {
-          "name": "3.2.15_crear_tarifas",
-          "count": 1
-        },
-        {
           "name": "3.1.9_evidencias_de_entrega",
           "count": 1
         },
@@ -4045,7 +4041,7 @@
   },
   "date_range": {
     "min": "2026-01-01T00:50:00",
-    "max": "2026-04-13 22:41:24"
+    "max": "2026-04-14 13:24:42"
   },
-  "generated_at": "2026-04-13 18:02:24"
+  "generated_at": "2026-04-14 08:59:28"
 }
