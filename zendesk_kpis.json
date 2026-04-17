@@ -1,9 +1,9 @@
 {
-  "total_tickets": 7894,
+  "total_tickets": 7908,
   "by_status": [
     {
       "Status": "closed",
-      "cnt": 6779
+      "cnt": 6788
     },
     {
       "Status": "open",
@@ -11,19 +11,15 @@
     },
     {
       "Status": "solved",
-      "cnt": 95
+      "cnt": 104
     },
     {
       "Status": "pending",
-      "cnt": 13
-    },
-    {
-      "Status": "hold",
-      "cnt": 3
+      "cnt": 12
     }
   ],
-  "resueltos": 6874,
-  "abiertos": 1017,
+  "resueltos": 6892,
+  "abiertos": 1016,
   "monthly_trend": [
     {
       "mes": "2026-01",
@@ -45,9 +41,9 @@
     },
     {
       "mes": "2026-04",
-      "total": 1010,
-      "resueltos": 826,
-      "abiertos": 181
+      "total": 1024,
+      "resueltos": 844,
+      "abiertos": 180
     }
   ],
   "by_canal": [
@@ -163,15 +159,15 @@
   "by_priority": [
     {
       "Priority": "normal",
-      "cnt": 7190
+      "cnt": 7204
     },
     {
       "Priority": "low",
-      "cnt": 531
+      "cnt": 533
     },
     {
       "Priority": "high",
-      "cnt": 113
+      "cnt": 115
     },
     {
       "Priority": "urgent",
@@ -181,11 +177,11 @@
   "by_type": [
     {
       "Type": "incident",
-      "cnt": 4960
+      "cnt": 4974
     },
     {
       "Type": "task",
-      "cnt": 2796
+      "cnt": 2800
     },
     {
       "Type": "question",
@@ -280,9 +276,9 @@
       "cnt": 177
     }
   ],
-  "avg_reply_time_min": 50.6,
-  "avg_first_resolution_min": 1788.6,
-  "avg_full_resolution_min": 1917.7,
+  "avg_reply_time_min": 50.5,
+  "avg_first_resolution_min": 1787.3,
+  "avg_full_resolution_min": 1916.0,
   "reiterative_count": 342,
   "by_calificacion": [],
   "analyst_table": [
@@ -687,19 +683,19 @@
     }
   ],
   "sla_metrics": {
-    "total": 7894,
-    "reply_1h": 6970,
-    "res_24h": 5663,
+    "total": 7908,
+    "reply_1h": 6982,
+    "res_24h": 5677,
     "avg_csat": null,
-    "total_reopens": 462
+    "total_reopens": 463
   },
   "resolution_buckets": {
-    "bucket_1h": 3964,
-    "bucket_4h": 959,
-    "bucket_8h": 299,
-    "bucket_24h": 441,
-    "bucket_48h": 222,
-    "bucket_more": 988
+    "bucket_1h": 3972,
+    "bucket_4h": 961,
+    "bucket_8h": 300,
+    "bucket_24h": 444,
+    "bucket_48h": 224,
+    "bucket_more": 990
   },
   "monthly_sla_trend": [
     {
@@ -722,9 +718,9 @@
     },
     {
       "mes": "2026-04",
-      "total": 1010,
-      "reply_1h": 906,
-      "res_24h": 718
+      "total": 1024,
+      "reply_1h": 918,
+      "res_24h": 732
     }
   ],
   "monthly_detail": {
@@ -2174,15 +2170,15 @@
       "2026-04": [
         {
           "name": "normal",
-          "count": 887
+          "count": 901
         },
         {
           "name": "low",
-          "count": 90
+          "count": 92
         },
         {
           "name": "high",
-          "count": 20
+          "count": 22
         },
         {
           "name": "urgent",
@@ -2248,11 +2244,11 @@
       "2026-04": [
         {
           "name": "incident",
-          "count": 673
+          "count": 687
         },
         {
           "name": "task",
-          "count": 313
+          "count": 317
         },
         {
           "name": "question",
@@ -4029,7 +4025,7 @@
   },
   "date_range": {
     "min": "2026-01-01T00:50:00",
-    "max": "2026-04-17 03:14:58"
+    "max": "2026-04-17 13:30:16"
   },
-  "generated_at": "2026-04-16 22:35:13"
+  "generated_at": "2026-04-17 09:01:48"
 }
