@@ -1,33 +1,29 @@
 {
-  "total_tickets": 7697,
+  "total_tickets": 7894,
   "by_status": [
     {
       "Status": "closed",
-      "cnt": 6607
+      "cnt": 6779
     },
     {
       "Status": "open",
-      "cnt": 980
+      "cnt": 1004
     },
     {
       "Status": "solved",
-      "cnt": 97
+      "cnt": 95
     },
     {
       "Status": "pending",
-      "cnt": 7
+      "cnt": 13
     },
     {
       "Status": "hold",
-      "cnt": 5
-    },
-    {
-      "Status": "new",
-      "cnt": 1
+      "cnt": 3
     }
   ],
-  "resueltos": 6704,
-  "abiertos": 987,
+  "resueltos": 6874,
+  "abiertos": 1017,
   "monthly_trend": [
     {
       "mes": "2026-01",
@@ -38,20 +34,20 @@
     {
       "mes": "2026-02",
       "total": 2215,
-      "resueltos": 1941,
-      "abiertos": 273
+      "resueltos": 1943,
+      "abiertos": 272
     },
     {
       "mes": "2026-03",
       "total": 1803,
-      "resueltos": 1504,
-      "abiertos": 298
+      "resueltos": 1507,
+      "abiertos": 296
     },
     {
       "mes": "2026-04",
-      "total": 813,
-      "resueltos": 661,
-      "abiertos": 148
+      "total": 1010,
+      "resueltos": 826,
+      "abiertos": 181
     }
   ],
   "by_canal": [
@@ -61,11 +57,11 @@
     },
     {
       "Canal": "correo",
-      "cnt": 3197
+      "cnt": 3190
     },
     {
       "Canal": "app_quicker",
-      "cnt": 446
+      "cnt": 445
     },
     {
       "Canal": "llamada",
@@ -87,15 +83,15 @@
     },
     {
       "Empresa": "supply_cn",
-      "cnt": 1229
+      "cnt": 1228
     },
     {
       "Empresa": "quick_go",
-      "cnt": 1052
+      "cnt": 1049
     },
     {
       "Empresa": "transversal",
-      "cnt": 138
+      "cnt": 137
     },
     {
       "Empresa": "embotelladora_andina_sa",
@@ -145,7 +141,7 @@
   "by_pais": [
     {
       "Pais": "colombia",
-      "cnt": 7255
+      "cnt": 7248
     },
     {
       "Pais": "chile",
@@ -157,7 +153,7 @@
     },
     {
       "Pais": "estados_unidos",
-      "cnt": 22
+      "cnt": 21
     },
     {
       "Pais": "peru",
@@ -167,15 +163,15 @@
   "by_priority": [
     {
       "Priority": "normal",
-      "cnt": 7017
+      "cnt": 7190
     },
     {
       "Priority": "low",
-      "cnt": 514
+      "cnt": 531
     },
     {
       "Priority": "high",
-      "cnt": 107
+      "cnt": 113
     },
     {
       "Priority": "urgent",
@@ -185,15 +181,15 @@
   "by_type": [
     {
       "Type": "incident",
-      "cnt": 4825
+      "cnt": 4960
     },
     {
       "Type": "task",
-      "cnt": 2739
+      "cnt": 2796
     },
     {
       "Type": "question",
-      "cnt": 76
+      "cnt": 80
     },
     {
       "Type": "problem",
@@ -207,11 +203,11 @@
     },
     {
       "Nivel": "n.6_op-go-pqrs",
-      "cnt": 471
+      "cnt": 470
     },
     {
       "Nivel": "n.3_desarrollo",
-      "cnt": 392
+      "cnt": 389
     },
     {
       "Nivel": "n.14_talento_humano_sac",
@@ -219,7 +215,7 @@
     },
     {
       "Nivel": "n.2_producto",
-      "cnt": 172
+      "cnt": 170
     },
     {
       "Nivel": "n.14_urban_distribution_sac",
@@ -239,7 +235,7 @@
     },
     {
       "Nivel": "n.12_automatizaciones",
-      "cnt": 61
+      "cnt": 59
     }
   ],
   "by_servicio": [
@@ -256,11 +252,11 @@
       "cnt": 588
     },
     {
-      "Servicio_Afectado": "3.2.11_reclamacion_de_pago",
-      "cnt": 433
+      "Servicio_Afectado": "37._actualización_barrio",
+      "cnt": 432
     },
     {
-      "Servicio_Afectado": "37._actualización_barrio",
+      "Servicio_Afectado": "3.2.11_reclamacion_de_pago",
       "cnt": 432
     },
     {
@@ -273,7 +269,7 @@
     },
     {
       "Servicio_Afectado": "web",
-      "cnt": 209
+      "cnt": 208
     },
     {
       "Servicio_Afectado": "7.2_cambio_de_estado",
@@ -284,15 +280,15 @@
       "cnt": 177
     }
   ],
-  "avg_reply_time_min": 51.1,
-  "avg_first_resolution_min": 1796.7,
-  "avg_full_resolution_min": 1911.8,
-  "reiterative_count": 345,
+  "avg_reply_time_min": 50.6,
+  "avg_first_resolution_min": 1788.6,
+  "avg_full_resolution_min": 1917.7,
+  "reiterative_count": 342,
   "by_calificacion": [],
   "analyst_table": [
     {
       "name": "jhon_wilches",
-      "total": 1808,
+      "total": 1806,
       "resueltos": 1793,
       "avg_res_min": 1788.0,
       "avg_reply_min": 100.0
@@ -306,7 +302,7 @@
     },
     {
       "name": "nicolas_mora",
-      "total": 1322,
+      "total": 1321,
       "resueltos": 1320,
       "avg_res_min": 960.0,
       "avg_reply_min": 69.0
@@ -320,7 +316,7 @@
     },
     {
       "name": "automatización",
-      "total": 437,
+      "total": 436,
       "resueltos": 427,
       "avg_res_min": 11890.0,
       "avg_reply_min": 7.0
@@ -364,17 +360,17 @@
     },
     {
       "name": "operación",
-      "total": 1060,
+      "total": 1056,
       "resueltos": 1020,
       "avg_res_min": 1893.0,
-      "avg_reply_min": 102.0
+      "avg_reply_min": 103.0
     },
     {
       "name": "3.1_desarrollo",
-      "total": 1013,
+      "total": 1011,
       "resueltos": 909,
       "avg_res_min": 1832.0,
-      "avg_reply_min": 145.0
+      "avg_reply_min": 144.0
     },
     {
       "name": "tech",
@@ -392,7 +388,7 @@
     },
     {
       "name": "colaborador",
-      "total": 444,
+      "total": 443,
       "resueltos": 431,
       "avg_res_min": 11626.0,
       "avg_reply_min": 6.0
@@ -406,10 +402,10 @@
     },
     {
       "name": "3.2_producto",
-      "total": 92,
+      "total": 91,
       "resueltos": 78,
       "avg_res_min": 7623.0,
-      "avg_reply_min": 58.0
+      "avg_reply_min": 57.0
     },
     {
       "name": "duplicado",
@@ -442,15 +438,15 @@
     },
     {
       "name": "n.6_op-go-pqrs",
-      "total": 471,
+      "total": 470,
       "resueltos": 457,
       "avg_reply_min": 5.0
     },
     {
       "name": "n.3_desarrollo",
-      "total": 392,
+      "total": 389,
       "resueltos": 230,
-      "avg_reply_min": 401.0
+      "avg_reply_min": 402.0
     },
     {
       "name": "n.14_talento_humano_sac",
@@ -460,9 +456,9 @@
     },
     {
       "name": "n.2_producto",
-      "total": 172,
+      "total": 170,
       "resueltos": 148,
-      "avg_reply_min": 308.0
+      "avg_reply_min": 311.0
     },
     {
       "name": "n.14_urban_distribution_sac",
@@ -490,9 +486,9 @@
     },
     {
       "name": "n.12_automatizaciones",
-      "total": 61,
+      "total": 59,
       "resueltos": 50,
-      "avg_reply_min": 61.0
+      "avg_reply_min": 63.0
     },
     {
       "name": "n.14_last_mile_sac",
@@ -569,17 +565,17 @@
     },
     {
       "name": "supply_cn",
-      "total": 1229,
+      "total": 1228,
       "resueltos": 1218
     },
     {
       "name": "quick_go",
-      "total": 1052,
+      "total": 1049,
       "resueltos": 1015
     },
     {
       "name": "transversal",
-      "total": 138,
+      "total": 137,
       "resueltos": 111
     },
     {
@@ -655,14 +651,14 @@
       "resueltos": 588
     },
     {
-      "name": "3.2.11_reclamacion_de_pago",
-      "total": 433,
-      "resueltos": 422
-    },
-    {
       "name": "37._actualización_barrio",
       "total": 432,
       "resueltos": 432
+    },
+    {
+      "name": "3.2.11_reclamacion_de_pago",
+      "total": 432,
+      "resueltos": 422
     },
     {
       "name": "3.1.18_barrio",
@@ -676,7 +672,7 @@
     },
     {
       "name": "web",
-      "total": 209,
+      "total": 208,
       "resueltos": 186
     },
     {
@@ -691,19 +687,19 @@
     }
   ],
   "sla_metrics": {
-    "total": 7697,
-    "reply_1h": 6789,
-    "res_24h": 5515,
+    "total": 7894,
+    "reply_1h": 6970,
+    "res_24h": 5663,
     "avg_csat": null,
-    "total_reopens": 434
+    "total_reopens": 462
   },
   "resolution_buckets": {
-    "bucket_1h": 3858,
-    "bucket_4h": 933,
-    "bucket_8h": 294,
-    "bucket_24h": 430,
-    "bucket_48h": 219,
-    "bucket_more": 970
+    "bucket_1h": 3964,
+    "bucket_4h": 959,
+    "bucket_8h": 299,
+    "bucket_24h": 441,
+    "bucket_48h": 222,
+    "bucket_more": 988
   },
   "monthly_sla_trend": [
     {
@@ -726,9 +722,9 @@
     },
     {
       "mes": "2026-04",
-      "total": 813,
-      "reply_1h": 725,
-      "res_24h": 570
+      "total": 1010,
+      "reply_1h": 906,
+      "res_24h": 718
     }
   ],
   "monthly_detail": {
@@ -762,7 +758,7 @@
       "2026-02": [
         {
           "name": "correo",
-          "count": 1102
+          "count": 1101
         },
         {
           "name": "chat",
@@ -788,7 +784,7 @@
       "2026-03": [
         {
           "name": "correo",
-          "count": 895
+          "count": 892
         },
         {
           "name": "chat",
@@ -814,7 +810,7 @@
       "2026-04": [
         {
           "name": "correo",
-          "count": 314
+          "count": 311
         },
         {
           "name": "chat",
@@ -822,7 +818,7 @@
         },
         {
           "name": "app_quicker",
-          "count": 29
+          "count": 28
         },
         {
           "name": "llamada",
@@ -1120,7 +1116,7 @@
         },
         {
           "name": "transversal",
-          "count": 25
+          "count": 24
         },
         {
           "name": "colsubsidio_v4",
@@ -1350,7 +1346,7 @@
         },
         {
           "name": "quick_go",
-          "count": 293
+          "count": 292
         },
         {
           "name": "supply_cn",
@@ -1397,15 +1393,15 @@
           "count": 10
         },
         {
-          "name": "colombina_sq",
-          "count": 10
-        },
-        {
           "name": "smith___nephew_sq",
           "count": 9
         },
         {
           "name": "plan_esencial_sq",
+          "count": 9
+        },
+        {
+          "name": "colombina_sq",
           "count": 9
         },
         {
@@ -1541,10 +1537,6 @@
           "count": 1
         },
         {
-          "name": "quick_clean",
-          "count": 1
-        },
-        {
           "name": "proyecto_sai_sas",
           "count": 1
         },
@@ -1624,7 +1616,7 @@
       "2026-04": [
         {
           "name": "supply_cn",
-          "count": 195
+          "count": 194
         },
         {
           "name": "eps_sanitas_sq",
@@ -1632,7 +1624,7 @@
         },
         {
           "name": "quick_go",
-          "count": 99
+          "count": 97
         },
         {
           "name": "dps_first_mile",
@@ -1806,7 +1798,7 @@
       "2026-02": [
         {
           "name": "colombia",
-          "count": 2158
+          "count": 2157
         },
         {
           "name": "chile",
@@ -1828,7 +1820,7 @@
       "2026-03": [
         {
           "name": "colombia",
-          "count": 1737
+          "count": 1734
         },
         {
           "name": "chile",
@@ -1850,15 +1842,15 @@
       "2026-04": [
         {
           "name": "colombia",
-          "count": 575
-        },
-        {
-          "name": "estados_unidos",
-          "count": 5
+          "count": 572
         },
         {
           "name": "chile",
           "count": 5
+        },
+        {
+          "name": "estados_unidos",
+          "count": 4
         },
         {
           "name": "mexico",
@@ -1948,7 +1940,7 @@
         },
         {
           "name": "n.3_desarrollo",
-          "count": 113
+          "count": 112
         },
         {
           "name": "n.14_talento_humano_sac",
@@ -2014,7 +2006,7 @@
         },
         {
           "name": "n.3_desarrollo",
-          "count": 111
+          "count": 109
         },
         {
           "name": "n.14_talento_humano_sac",
@@ -2042,7 +2034,7 @@
         },
         {
           "name": "n.12_automatizaciones",
-          "count": 19
+          "count": 18
         },
         {
           "name": "n.14_last_mile_sac",
@@ -2076,11 +2068,11 @@
         },
         {
           "name": "n.6_op-go-pqrs",
-          "count": 27
+          "count": 26
         },
         {
           "name": "n.2_producto",
-          "count": 24
+          "count": 22
         },
         {
           "name": "n.3_desarrollo",
@@ -2104,7 +2096,7 @@
         },
         {
           "name": "n.12_automatizaciones",
-          "count": 5
+          "count": 4
         },
         {
           "name": "n.10__gaf_qm_",
@@ -2182,15 +2174,15 @@
       "2026-04": [
         {
           "name": "normal",
-          "count": 714
+          "count": 887
         },
         {
           "name": "low",
-          "count": 73
+          "count": 90
         },
         {
           "name": "high",
-          "count": 14
+          "count": 20
         },
         {
           "name": "urgent",
@@ -2256,19 +2248,19 @@
       "2026-04": [
         {
           "name": "incident",
-          "count": 538
+          "count": 673
         },
         {
           "name": "task",
-          "count": 256
+          "count": 313
+        },
+        {
+          "name": "question",
+          "count": 7
         },
         {
           "name": "problem",
           "count": 6
-        },
-        {
-          "name": "question",
-          "count": 3
         }
       ]
     },
@@ -2306,7 +2298,7 @@
         },
         {
           "name": "jhon_wilches",
-          "count": 540
+          "count": 539
         },
         {
           "name": "nicolas_mora",
@@ -2332,7 +2324,7 @@
         },
         {
           "name": "jhon_wilches",
-          "count": 384
+          "count": 383
         },
         {
           "name": "brayan_chacon",
@@ -2340,7 +2332,7 @@
         },
         {
           "name": "nicolas_mora",
-          "count": 276
+          "count": 275
         },
         {
           "name": "automatización",
@@ -2374,7 +2366,7 @@
         },
         {
           "name": "automatización",
-          "count": 27
+          "count": 26
         },
         {
           "name": "brayan_chacon",
@@ -2452,7 +2444,7 @@
         },
         {
           "name": "3.1_desarrollo",
-          "count": 242
+          "count": 241
         },
         {
           "name": "colaborador",
@@ -2494,7 +2486,7 @@
         },
         {
           "name": "operación",
-          "count": 294
+          "count": 292
         },
         {
           "name": "tech",
@@ -2502,7 +2494,7 @@
         },
         {
           "name": "3.1_desarrollo",
-          "count": 174
+          "count": 173
         },
         {
           "name": "colaborador",
@@ -2536,11 +2528,11 @@
         },
         {
           "name": "operación",
-          "count": 89
+          "count": 87
         },
         {
           "name": "colaborador",
-          "count": 29
+          "count": 28
         },
         {
           "name": "3.1_desarrollo",
@@ -2552,7 +2544,7 @@
         },
         {
           "name": "3.2_producto",
-          "count": 14
+          "count": 13
         },
         {
           "name": "call",
@@ -3038,7 +3030,7 @@
         },
         {
           "name": "exportables",
-          "count": 35
+          "count": 34
         },
         {
           "name": "16.1_aclaraciones",
@@ -3423,16 +3415,16 @@
           "count": 51
         },
         {
-          "name": "app",
-          "count": 35
-        },
-        {
           "name": "37._actualización_barrio",
           "count": 35
         },
         {
+          "name": "app",
+          "count": 34
+        },
+        {
           "name": "3.1_servicios",
-          "count": 35
+          "count": 34
         },
         {
           "name": "3.2_configuración_",
@@ -3755,10 +3747,6 @@
           "count": 1
         },
         {
-          "name": "11._chatbot",
-          "count": 1
-        },
-        {
           "name": "10.1_smarttracing",
           "count": 1
         }
@@ -3782,7 +3770,7 @@
         },
         {
           "name": "3.2.11_reclamacion_de_pago",
-          "count": 27
+          "count": 26
         },
         {
           "name": "22._lead_comercial",
@@ -3790,7 +3778,7 @@
         },
         {
           "name": "web",
-          "count": 17
+          "count": 16
         },
         {
           "name": "3.1_servicios",
@@ -3857,11 +3845,11 @@
           "count": 5
         },
         {
-          "name": "20._automatización",
-          "count": 5
+          "name": "3.2.9_inactivación_usuarios",
+          "count": 4
         },
         {
-          "name": "3.2.9_inactivación_usuarios",
+          "name": "20._automatización",
           "count": 4
         },
         {
@@ -3918,10 +3906,6 @@
         },
         {
           "name": "3.2.3_vehiculos",
-          "count": 2
-        },
-        {
-          "name": "3.2.1_clientes__usuarios_",
           "count": 2
         },
         {
@@ -3997,6 +3981,10 @@
           "count": 1
         },
         {
+          "name": "3.2.1_clientes__usuarios_",
+          "count": 1
+        },
+        {
           "name": "3.1.9_evidencias_de_entrega",
           "count": 1
         },
@@ -4041,7 +4029,7 @@
   },
   "date_range": {
     "min": "2026-01-01T00:50:00",
-    "max": "2026-04-14 23:44:26"
+    "max": "2026-04-17 03:14:58"
   },
-  "generated_at": "2026-04-14 18:51:26"
+  "generated_at": "2026-04-16 22:35:13"
 }
